@@ -1,0 +1,6 @@
+*.tap binary
+*.dfw binary
+*.bin binary
+*.z80 binary
+*.scr binary
+
