@@ -1,0 +1,35 @@
+
+ Party: FOReVER:2010
+  Date: 19-21.03.2010
+ Scene: ZX Spectrum
+ Compo: 1k intro
+  Work: Song in lines - all in 1kB
+   Req: ZX Spectrum 48k + AY-3-8912
+   Who: Graphics: Busy, Music: Noro
+ Email: busy@napri.sk noro@napri.sk
+
+
+Hello,
+
+This is a special version of my series "Song in lines"
+but all code and music are designed as 1k intro,
+it means all code and music fits 1024 bytes.
+
+In the intro, there is a title at begin.
+You can skip short waiting during the title
+by pressing any key (no shift). There is
+no any control keys in the main part of intro.
+
+Main graphic effect repeats after cca one minute.
+But in fact, repeat comes after very long time
+because repeating of effects is processed
+with another coordinates of lines.
+
+On the background, a short AY 50Hz music plays.
+This is the shortest Noro's music what was used ever.
+Music routine takes 280 bytes and data 169 bytes.
+
+Intro comes with a basic loader, but on BSDOS,
+code of the intro is runable by NEW.
+
+			Busy and Noro.

@@ -1,0 +1,16 @@
+
+  Party: JHcon 2014
+   Date: 28-30.11.2014
+  Scene: ZX Spectrum
+  Compo: 1k intro
+   Work: Micro figures
+    Req: ZX Spectrum 128kB
+    Who: Busy soft & hard
+  Email: busy@napri.sk
+
+Hello
+
+This 1k intro is a collection of figures from Gemba's Micro demo.
+It contains four figures - tetrahedron, pyramid, octahedron and cube.
+
+On BSDOS, code of the selected intro is runable by NEW. 

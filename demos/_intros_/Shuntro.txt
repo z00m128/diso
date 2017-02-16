@@ -1,0 +1,11 @@
+
+   Party: Shucon 2010
+    Date: 02-11.07.2010
+   Scene: ZX Spectrum
+   Compo: 1k intro
+    Work: Shucontro - 1k intro
+     Req: ZX Spectrum 128k + AY-3-8912
+     Who: Graphics: Busy, Music: Noro
+   Email: busy@napri.sk noro@napri.sk
+
+Greetings for all Shucon 2010 visitors !!!!

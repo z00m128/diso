@@ -1,0 +1,43 @@
+
+  Party: Forever 2015
+   Date: 13-15.03.2015
+  Scene: ZX Spectrum
+  Compo: 1k intro
+   Work: 80 rectangles
+    Req: ZX Spectrum 48kB
+    Who: Busy soft & hard
+  Email: busy@napri.sk
+
+ #########################
+ ## In memory of RASTER ##
+ #########################
+
+This 1k intro is a ZX Spectrum port
+of well known Raster's intro from Atari:
+http://www.pouet.net/prod.php?which=62186
+
+You will see 80 random moving rectangles,
+it means 18560 moving pixels at 50 FPS.
+
+Due to different timing of some Speccy
+models, the intro comes in two versions:
+First one (80rect128) is optimized for 128/+2 only
+and second one (80rect48) is generic for all other
+models running on 3.5-4 MHz (48,+2A,+3,Didaktik M).
+Running of 80rect128 on +2A/+3 is possible but
+due to slower contended ram it is not recomended
+(there is no problem with memory layout of slower
+128 ram banks, but with slower contended ram itself).
+
+In the TAP file, there are both version of intro
+with simple program for detect right type of computer.
+
+If you want to use this intro on modern Speccy clones
+running on 6+ MHz, please use 80rect128 version.
+Using 80rect48 in this case can cause flicking problems.
+
+On BSDOS, code of the intro is runable by NEW command.
+
+And at the end, a little info for Atari users:
+This intro DOES NOT USE the index registers
+and any indexed adressing modes of the Z80-CPU :)

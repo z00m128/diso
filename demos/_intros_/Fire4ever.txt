@@ -1,0 +1,29 @@
+============================
+==================
+= FIRE 4EVER
+=============
+=====
+==================== 1k Intro
+===============================
+==================
+========
+== (c) 2004 by EDY / Weird Science Software
+================================================
+================
+========
+= Released for the Forever 5 party.
+====================================
+
+NOTES:
+------
+.: code size: 1023 bytes
+.: timelength: 1.30 min
+.: working on all Spectrum model, except ZX Spectrum 16k
+.: best result on model 128k or later
+.: screensize: 64 * 24 pixel with 16 chunk and 8 attribute color
+.: effects:
+   . realtime fire effect with 4 pixel average
+   . realtime faded and positioned trilinear filtered texts
+
+
+ENJOY!

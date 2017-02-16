@@ -1,0 +1,13 @@
+Spectro by Optimus/Dirty Minds
+------------------------------
+
+Hi there!
+
+This is my first crappy attempt at coding something for Zx Spectrum. Crappy bobs, ugly attribute plasma. With bugz.
+I am officially coding for Speccy now and I love Speccy because I am Optimouse :)
+
+For my next Speccy demo I will take more time (this was just a fast hack I did in a hurry during my netcafe hours) and I will probably configure SDCC in the same way as my CPC/PC framework. It's gonna rule for deving!
+
+The intro seems to work in every Speccy I try on emul. Gotta try it in my 48k at home too.
+
+Optimus/Dirty Minds

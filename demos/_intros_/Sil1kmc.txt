@@ -1,0 +1,38 @@
+
+ Party: FOReVER:2016
+  Date: 18-20.03.2016
+ Scene: ZX Spectrum
+ Compo: 1k intro
+  Work: Song in lines - all in 1kB
+   Req: ZX Spectrum 128k + AY-3-8912
+   Who: Graphics: Busy, Music: Noro
+ Email: busy@napri.sk noro@napri.sk
+
+
+Hello,
+
+This is a special 1k version of multicolor
+"Song in lines" part of Echology demo,
+but all code and music are designed as 1k intro,
+it means all code and music fits 1024 bytes.
+
+Main graphic effect repeats after cca two minutes.
+But in fact, repeat comes after very long time
+because repeating of effects is processed
+with another coordinates of lines.
+
+There are a short AY 50Hz music, over 1 minute long.
+Music routine takes 175 bytes and data 222 bytes.
+
+Multicolor in this intro is timed only for original
+ZX Spectrum 128k / +2 / +2A / +3. There can be
+destroyed displaying on other clones than 128k.
+
+You can run this intro on 48kB models too but
+in this case, you will not see any graphics.
+If you have AY, the music will be played.
+
+Intro comes with a basic loader, but on BSDOS,
+code of the intro is runable by NEW.
+
+                      Busy and Noro.

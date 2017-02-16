@@ -1,0 +1,35 @@
+
+ Party: Chaos Constructions 2012
+  Date: 18-19.08.2012
+ Scene: ZX Spectrum
+ Compo: 512 byte intro
+  Work: Song in lines - all in 512 bytes
+   Req: ZX Spectrum 48k + AY-3-8912
+   Who: Graphics: Busy, Music: Noro
+ Email: busy@napri.sk noro@napri.sk
+
+Hello,
+
+This is a special version of my series "Song in lines"
+but all code and music are designed as 512 intro,
+it means all code and music fits 512 bytes.
+
+Main graphic effect repeats after cca two minutes.
+But in fact, repeat comes after very long time
+because repeating of effects is processed
+with another coordinates of lines.
+
+On the background, a short AY 50Hz music plays.
+This is the shortest Noro's music what was used till now.
+
+A short statistics:
+ Graphics routine: 245 bytes
+    Music routine: 126 bytes
+       Music data:  69 bytes
+     Service code:  72 bytes
+ Service code is credit, im2 and other.
+
+Intro comes with a basic loader, but on BSDOS,
+code of the intro is runable directly by NEW command.
+
+					Busy and Noro.

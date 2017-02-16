@@ -1,0 +1,32 @@
+
+ Party: JHcon 2013
+  Date: 06-08.12.2013
+ Scene: ZX Spectrum
+ Compo: 1k intro
+  Work: Story talker 01
+   Req: ZX Spectrum 48
+   Who: Busy soft & hard
+ Email: busy@napri.sk
+
+Greetings for all JHcon 2013 visitors !
+
+Second release (8.12.2013) without "Scroll?".
+
+This is a 1k joke for your amusement.
+It writes random comic sentences
+from database of 90 nouns and 70 verbs.
+Sorry for foreign users,
+all it is in slovak language.
+
+Toto je taky 1k zartik pre vase pobavenie.
+Intro vypisuje nahodne vtipne sekvencie
+z databazy 90 podstatnych mien a 70 slovies.
+
+Pre urychlenie vypisu drzte stlacenu klavesu.
+
+Intro je venovane navstevnikom stretka JHcon.
+Ak pri citani najdete svoje meno v nejakej
+nie prilis lichotivej suvislosti,
+prosim berte to sportovo... :)
+
+			Busy

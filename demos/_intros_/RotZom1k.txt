@@ -1,0 +1,30 @@
+
+ Party: FOReVER-C
+  Date: 18-20.03.2011
+ Scene: ZX Spectrum
+ Compo: 1k intro
+  Work: Rotazoomer - all in 1kB
+   Req: ZX Spectrum 48k + AY-3-8912
+   Who: Graphics: Busy, Music: Noro
+ Email: busy@napri.sk noro@napri.sk
+
+
+Hello,
+
+This is a special version of my Rotazoomer
+but all code and music are designed as 1k intro,
+it means all code and music fits 1024 bytes.
+
+Intro contains 8 textures what are rotating,
+moving and zooming on screen. Each texture is
+displaying about 32 second, so all graphics
+takes about 256 seconds = 4 and 1/2 minutes.
+
+On the background, a short AY 50Hz music plays.
+Music routine takes 227 bytes and data 153 bytes.
+
+Intro comes with a basic loader, but on BSDOS,
+code of the intro is runable by NEW.
+
+			Busy and Noro.
+

@@ -1,0 +1,45 @@
+
+                  ....    ...   ...  ....   .....
+                  . ...  . ...  ...  . ...   ...
+                  ....   . ...  ...  . ...   ...
+                  ...    . ...  ...  . ...   ...
+                  ...     ...   ...  . ...   ...
+
+
+This is the 1k Intro by icabod of RA, titled "point".
+Presented in the 1k Intro Competition @ Forever7 in Trencin, Slovakia.
+                  Released sometime on the weekend of March 18th 2006.
+
+
+This Intro was made to the tune of:                     Porcupine Tree
+                                                        65daysofstatic
+                                                 Explosions In The Sky
+                                                             Sigur Ros
+
+
+I apologise now for the annoying repetitive music.
+    It's not my strong point (ask anyone who's seen my cd collection).
+
+
+Sadly I ran out of space so couldn't fit all I wanted
+                               but I hope you like what I did achieve.
+
+
+For some fun hack into the program when the text appears and
+                                     POKE $8259,$40 and POKE $825A,$00
+
+
+Here's some technical info:
+                      No ROM routines are used (tho' the ROM font is).
+      Plot routine takes 86t per pixel (not counting slow ram access).
+                               Plot clear routine takes 17t per pixel.
+          Calculation of pixel positions takes... considerably longer.
+                        Intro lasts about 1:15 mins before it repeats.
+        Uncompressed code is 566b - rest of space is filled with data.
+         MegaLZ is used to squeeze the 1776b code+tables down to 905b.
+                      Rest of space is the decompressor and text "ZX".
+                                              I don't think it'll win.
+
+
+Greetz go to the usual suspects.
+                                  zx demoscene news : http://raww.org/

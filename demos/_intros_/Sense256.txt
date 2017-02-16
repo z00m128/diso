@@ -1,0 +1,7 @@
+Title: Senseless 256 bytes, Forever 14
+Prod type: 256b intro
+nick: goblinish
+Real name: Krapivin Dmitry
+contact: hruhru.hru@yandex.ru
+Duration: press any key to quit(may not work on emulator)
+Requirements: no need except fuckoff to Alex Rider&VNN_KCS

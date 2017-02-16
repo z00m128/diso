@@ -1,0 +1,33 @@
+
+ Party: JHcon 2013
+  Date: 06-08.12.2013
+ Scene: ZX Spectrum
+ Compo: 1k intro
+  Work: Fade 1kB multicolor edition
+   Req: ZX Spectrum 128/+2/+2A/+3
+   Who: Graphics: Busy, Music: Noro
+ Email: busy@napri.sk noro@napri.sk
+
+
+Greetings for all JHcon 2013 visitors !!!
+
+This is the first multicolor intro (maybe ever).
+It runs in resolution 64x48 pixels, 8 colors per pixel.
+
+You can see 32 textures in size 16x16 for sprites
+and the same textures but size 64x48 for background.
+
+There are a short AY 50Hz music, 52 seconds long.
+Music routine takes 158 bytes and data 127 bytes.
+
+Due to different timing and layout of contended ram banks
+on 128/+2 and +2A/+3, the intro comes in two versions:
+first one compiled for 128/+2 and second one for +2A/+3.
+You can run both version on both types of computer,
+but on wrong type of comp you get destroyed multicolor.
+In the TAP file, there are both version of intro
+with simple program for detect right type of computer.
+
+On BSDOS, code of the selected intro is runable by NEW.
+
+                                   Busy and Noro.

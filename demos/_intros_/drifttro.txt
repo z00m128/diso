@@ -1,0 +1,14 @@
+DRIFTTRO.TAP  {1K INTRO, ZX SPECTRUM 128K}
+=================================================
+
+- NEED 128K RAM (use all 0-7 ram pages)
+- USR0 MODE! (disable 128basic or trdos!)
+- LONGTIME DEPACK 4:38 (or use highspeed emulation)
+
+=================================================
+
+drifttro.z80 - running identical intro, but not need depack wait ;-)
+
+
+
+19.01.2005 nairam

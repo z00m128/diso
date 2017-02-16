@@ -1,0 +1,22 @@
+
+ Party: JHcon 2012
+  Date: 14-16.12.2011
+ Scene: ZX Spectrum
+ Compo: 1k intro
+  Work: Fade 1kB
+   Req: ZX Spectrum 48 + AY
+   Who: Graphics: Busy, Music: Noro
+ Email: busy@napri.sk noro@napri.sk
+
+
+Greetings for all JHcon 2012 visitors !!!
+
+Intro contains 32 textures 16x16 for sprites
+and the same textures but size 64x48 for background.
+
+There are a short AY 50Hz music, 41.58 seconds long.
+Music routine takes 158 bytes and data 117 bytes.
+
+On BSDOS, code of the selected intro is runable by NEW.
+
+                 Busy and Noro.

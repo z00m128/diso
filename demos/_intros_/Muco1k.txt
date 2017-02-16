@@ -1,0 +1,32 @@
+
+ Party: FOReVER 2014
+  Date: 14-16.03.2014
+ Scene: ZX Spectrum
+ Compo: 1k intro
+  Work: Multicolor shadevision
+   Req: ZX Spectrum 128/+2/+2A/+3
+   Who: Graphics: Busy, Music: Noro
+ Email: busy@napri.sk noro@napri.sk
+
+Hello,
+
+This intro is a special 1k remake
+of the Multicolor shadevision part of Echology.
+
+Intro contains 19 multicolor textures in resolution 64x32.
+Some of them have 2 and other 3 variants of displaying.
+
+There are a (not so short) AY 50Hz music, over 2 minutes long.
+Music routine takes 179 bytes and data 95 bytes.
+
+Due to different timing and contended ram banks
+of 128/+2 and +2A/+3, the intro comes in two versions:
+first one compiled for 128/+2 and second one for +2A/+3.
+You can run both version on both types of computer,
+but then you get destroyed multicolor.
+In the TAP file, there are both version of intro
+with simple program for detect right type of computer.
+
+On BSDOS, code of the selected intro is runable by NEW.
+
+	Busy and Noro.

@@ -1,0 +1,23 @@
+
+ Party: (no party)
+  Date: 13.08.2012
+ Scene: ZX Spectrum
+ Compo: 256 byte intro
+  Work: Song in lines - graphic part
+   Req: ZX Spectrum 48k
+   Who: Graphics: Busy
+ Email: busy@napri.sk
+
+Hello,
+
+This is graphic part of my known 1k intro "Song in lines"
+created as new separate 256-byte intro.
+
+Main graphic effect repeats after cca two minutes. But in fact,
+repeat comes after very long time because repeating of effects
+is processed with another coordinates of lines.
+
+Intro comes with a basic loader, but on BSDOS,
+code of the intro is runable directly by NEW command.
+
+			Busy.

@@ -1,0 +1,26 @@
+
+  Party: JHcon 2015
+   Date: 11-13.12.2015
+  Scene: ZX Spectrum
+  Compo: 1k intro
+   Work: Fade 1kB in monochrome multicolor
+    Req: ZX Spectrum 128/+2/+2A/+3
+    Who: Graphics: Busy, Music: Noro
+  Email: busy@napri.sk noro@napri.sk
+
+
+Greetings for all JHcon 2015 visitors !!!
+
+This is the first monochrome multicolor intro (maybe ever).
+It runs in virtual resolution 128x128 pixels, 9 shades of grey.
+
+You can see 32 textures in size 32x32 for sprites
+and the same textures but size 128x96 for background.
+
+There is a very simple 30 seconds AY 50Hz background link.
+Music routine takes 77 bytes and data 16 bytes.
+
+On BSDOS, code of the selected intro is runable by NEW.
+
+                                Busy and Noro.
+ 

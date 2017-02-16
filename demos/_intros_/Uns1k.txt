@@ -1,0 +1,34 @@
+
+ Party: FOReVER XIII
+  Date: 16-18.03.2011
+ Scene: ZX Spectrum
+ Compo: 1k intro
+  Work: Unlimited sprites 1kB
+   Req: ZX Spectrum 128/+2/+2A/+3
+   Who: Graphics: Busy, Music: Noro
+ Email: busy@napri.sk noro@napri.sk
+
+
+Hello,
+
+This is a special version
+of the classic "Unlimited sprites" effect
+but all code and music are designed as 1k intro.
+
+Intro contains 16 textures 32x32 for sprites
+and 7 textures for moving background.
+
+There are a short AY 50Hz music, 20.48 seconds long.
+Music routine takes 112 bytes and data 52 bytes.
+
+Due to different configuration of contended ram banks
+on 128/+2 and +2A/+3, the intro comes in two versions:
+first one compiled for 128/+2 and second one for +2A/+3.
+You can run both version on both types of computer,
+but then you get some timing problems (flicking of counter).
+In the TAP file, there are both version of intro
+with simple program for detect right type of computer.
+
+On BSDOS, code of the selected intro is runable by NEW.
+
+		Busy and Noro.
