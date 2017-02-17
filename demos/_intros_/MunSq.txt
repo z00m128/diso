@@ -1,0 +1,9 @@
+Nick/Realname: goblinish / Dmitry Krapivin
+Group: n/a
+Full name of work: Munching Squares
+Compo: ZX intro
+Requirements: n/a
+Duration (minutes): until reset
+Contacts: hruhru.hru@yandex.ru
+P.S.: archive contains asm source+binary+.scl
+greets to zx.pk.ru,dbfinteractive.com, special fuckoff to BiTL, Manwe & demoscene.ru compatibles

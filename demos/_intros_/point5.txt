@@ -1,0 +1,75 @@
+nickname:	icabod
+login:		icabod
+e-mail:		icabod@raww.org
+compo:		512b Intro
+platform:	ZX
+group:		Raww Arse
+name of work:	Point5
+name of file:	point5.zip
+size:		2763b
+duration:	2:30
+representative:	Vlad "Vega" Sotnikov
+notes:
+
+I have provided 2 files
+  point5.tap : you know how to use it :]
+  point5.bin : CLEAR32767
+               LOAD""CODE32768
+               USR32768
+
+The intro uses all memory >= 32768.
+Press SPACE to end.
+
+Please show the Intro for at least 1:00.
+But some nice effects happen after 2:00.
+
+
+                 ::::   ::::  :::  ::::  :::::    ::::::
+                ::  :: ::  :: ::  ::  ::  ::      :::
+                ::: :: ::: :: ::: ::: ::  :::     :::::
+                :::::  ::: :: ::: ::: ::  :::         ::
+                :::    ::: :: ::: ::: ::  ::: ::: ::: ::
+                :::     ::::  ::: ::: ::  ::: :::  ::::
+
+                         -- tapeworm  attack --
+                           ------------------
+
+This is the 512b Intro by icabod of RA, titled "point5 - tapeworm attack"
+
+Presented in the 512b Intro Competition @ Chaos Constructions 2006
+             on August 26th and August 27th 2006 in St Petersburg, Russia
+
+This intro is the sequel to "Point"
+                          the winner of the Forever7 1k Intro competition
+
+
+This Intro was made to the tune of:
+                   Porcupine Tree - 65daysofstatic - Anathema - Sigur Ros
+
+No music is featured in the Intro, tho' in my head it's playing a section
+of "65 doesn't understand you" by 65daysofstatic.
+
+
+Here's some trivia:                                        No compression
+                                                          No ROM routines
+                                               Memory >= $8000 is trashed
+                                     Stack must be < $8000 before running
+                           The best effect happens after about 46 seconds
+                      The lack of memory contention on clones is annoying
+                    It's called "point5" as it's half the size of "point"
+                   The intro will continue until you press [1QA0PEntSpSh]
+           I still haven't done the effect I first envisioned for "Point"
+                                                                 Tsk, eh?
+
+If you don't use the BASIC loader, then you must:              CLEAR32767
+                                                              LOAD""32768
+                                                                 USR32768
+                                                Stack is restored on exit
+
+Thankz to karingal, PK, piters, gasman  ...  for returning me to BASIC ;p
+
+Thankz to Vega for presenting this at the party ...
+                                            ... sorry I couldn't be there
+
+Greetz go to the usual suspects.
+                                     zx demoscene news : http://raww.org/

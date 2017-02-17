@@ -1,0 +1,8 @@
+Title: IK+
+Prod type: intro for Di:Halt border compo
+nick: goblinish
+Real name: Krapivin Dmitry
+contact: hruhru.hru@yandex.ru
+Duration: при запуске требуется некоторое время на распаковку.
+Requirements: написано для пентагон128
+Description:

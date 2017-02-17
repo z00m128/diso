@@ -1,0 +1,32 @@
+Work's name:    SABOTAGE
+Type:           4 Kilobytes Intro
+Contributon:    for Chaos Construction'1
+Authors:        J7n/4D as main coder
+                Black Groove/TBK as tune composer
+                MiKE/4D as subcoder, designer
+Contacts:       jtn@mail.ru
+
+Special thanx:  all 4D and TBK members for support
+Greetz:         all 4K and demo coders
+special:        3SC Hardcore
+                all others men, of which routines
+                had be used by me;)
+J7n's note:     This is our 2nd 4K work. The 1st was
+                an 'SkY', which was failed on CC'000,
+                because of unstable data bus on Copper
+                Feet's pentagon;(. So, this intro has'nt
+                this mistake (i.e. has a 257 bytes interrupt
+                table).
+                If you have some questions, please, write
+                me! I'm (hope, not only me) interests for
+                appearence of young and cool (and mainly
+                lazyless!;)) coders on speccy scene.
+                Maybe, the sources of this strange intro
+                (khe-khe:), will be public soon, if anybody
+                asks me, ofcourse...
+
+  ---==== 4th Dimension + TriebKraft = Perm Rulez ! ====---
+
+printed at 16.08.2001 2:12 a.m. msk
+
+                                          4rever yours J7n/4D
