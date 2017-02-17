@@ -1,0 +1,7 @@
+Nick/Realname: Lisokryl / Alexander Lisokrylsky
+Group: Therac-25
+Full name of work: WHAM! The Rest in Peace Box
+Compo: ZX 1K
+Requirements: ZX48 + beeper
+Duration (minutes): 1
+Contacts: lisokryl@gmail.com

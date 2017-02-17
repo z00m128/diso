@@ -1,0 +1,15 @@
+Nick/Realname:	introspec / Aleksey Pichugin
+Group:		"thesuperb"
+Full title:	MGDMA
+Compo:		Combined 8-Bit 1024b Intro
+Requirements:	ZX Spectrum 48K/128K/+2/+2A/+3/Pentagon/Scorpion
+Duration:	45 seconds
+Contacts:	zxintrospec@gmail.com
+Credits:	many thanks to diver^4d for advise, inspiration, and much patience.
+		also, big thank you to Phil Wilde and Jean-Paul De Coster for producing "No limit".
+		the impossible cube featured in the demo was invented by Maurits Cornelis Escher.
+		i very much hope that a certain group whose name i plagiarised for this demo does not mind (too much).
+		most of the code is written by introspec, with a couple of great suggestions by psndcj^tbk.
+		the interrupt alignment code is inspired by Alone Coder's routine from the supplement to ZX-Guide #3.
+		this demo uses the arbitrary delay routine written by Jan Bobrowski for his software "minfo".
+		the fully commented source code of the demo is available upon a request.

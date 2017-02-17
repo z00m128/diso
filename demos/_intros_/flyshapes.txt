@@ -1,0 +1,7 @@
+Nick/Realname:		bfox
+Full name of work:	flyshapes
+Compo:			LowEnd 256b Intro
+Requirements:		ZX Spectrum 48/128 + AY/YM
+Duration (minutes):	looped
+Contacts:		i_love_zx@mail.ru
+P.S.:			keep da ZX-scene alive!

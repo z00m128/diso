@@ -1,0 +1,13 @@
+YACR512 (Yet Another Chessboard Rotator - 512 bytes) by Optimus/Dirty Minds
+---------------------------------------------------------------------------
+                                    
+Here it is. One evening and night of work.
+
+Uses parts of my rotozoomer code from Clouds with Virgins in the Skies and 
+even parts from It Sucks intro (yes, even that lametro proved to be useful).
+
+Run for 30 seconds and you have showed it all (for organizers).
+
+Going to sleep late again..
+
+Optimus/Dirty Minds

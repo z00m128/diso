@@ -1,0 +1,8 @@
+
+      Solar Disco
+    256 bytes intro
+  (c) SerzhSoft, 2016
+ZX-Spectrum 48K +beeper
+      Greetz :)
+
+ start address: 42000

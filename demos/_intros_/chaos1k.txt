@@ -1,0 +1,20 @@
+
+         Party:   Chaos Constructions 2015
+         Compo:	  ZX Spectrum 1K Intro
+        Handle:   introspec
+    Full title:   A Chaos Construction
+  Requirements:   ZX Spectrum (48K and higher)
+      Duration:   1:00
+         Email:   zxintrospec@gmail.com
+
+         Notes:   As far as compofillers go,
+                  this may be not the worst one
+                  out there. I hope not.
+
+                  Many thanks to nq^skrju for
+                  composing the crazy power chord
+                  for the end of the intro, utz
+                  for teaching me a clever trick
+                  with the pentatonic scale and
+                  also to sq^skrju and diver^4d for
+                  their keen interest and support.
