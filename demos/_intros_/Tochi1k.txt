@@ -1,0 +1,31 @@
+
+ Party: FOReVER:2017
+  Date: 17-19.03.2017
+ Scene: ZX Spectrum
+ Compo: 1k intro
+  Work: Tochi 1k
+   Req: ZX Spectrum 48k + AY-3-8912
+   Who: Graphics: Busy, Music: Noro
+ Email: busy@napri.sk noro@napri.sk
+
+
+Hello,
+
+This is some simple attribute rotation effect
+with colour palette changing in real time.
+
+For enhancing colour palette, 25Hz mixing is used
+so there can be some flickering problems on emulators
+or any devices what uses no native 50 FPS displaying.
+
+There is possibility to switch off the flickering
+by disabling 25Hz colour mixing by POKE 33336,0
+but in this case intro will not use full palette.
+
+There are a short AY 50Hz music, over 2 minute long.
+Music routine takes 171 bytes and data 236 bytes.
+
+Intro comes with a basic loader, but on BSDOS,
+code of the intro is directly runable by NEW.
+
+                      Busy and Noro.
