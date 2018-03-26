@@ -1,0 +1,5 @@
+compo:  forever 2o18 zx spectrum 1k intro compo
+name:   zx fashion we1k
+type:   1k intro in basic
+author: akio tenshi (factor6)
+info:   please use 48 basic
