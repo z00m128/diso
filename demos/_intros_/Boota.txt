@@ -1,0 +1,16 @@
+
+ Party: FOReVER:2018
+  Date: 16-18.03.2018
+ Scene: ZX Spectrum
+ Compo: 1k intro
+  Work: Boota
+   Req: ZX Spectrum 48k
+   Who: Busy
+
+Small graphic effect written in basic.
+
+  Boota-512 ... official intro
+  Boota-run ... precaculated version
+
+Official intro need some (very long) time for prepare.
+Version Boota-run has all data precomputed and runs immediatelly.
