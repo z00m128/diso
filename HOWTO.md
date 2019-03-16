@@ -6,7 +6,7 @@ Requirements
 - Linux / Unix with bash compatible shell
 - all common system progs (grep, cat, etc...)
 - all common build requirements (libc, libstdc++, g++, make, etc...)
-- mkisofs or any compatible tool
+- genisoimage or any compatible tool
 - macroassembler AS 1.42 (latest beta) at least (http://john.ccac.rwth-aachen.de:8000/as/)
 - zxspectrum utils (https://sourceforge.net/projects/zxspectrumutils/)
 
@@ -27,7 +27,7 @@ Build DISO
 
 - go to diso folder
 - erase unncessary files (only thing you need are folders 'demos', 'firmwares', 'games', 'utilities' and 'work')
-- run command: 'mkisofs -U -V "DISO" -G [path to]demfir81123_R.bin -o ../diso.iso .' and you will get diso.iso image in parent folder
+- run command: 'genisoimage -U -V "DISO" -G [path to]demfir81123_R.bin -o ../diso.iso .' and you will get diso.iso image in parent folder
 
 
 Use DISO
@@ -36,5 +36,4 @@ Use DISO
 - burn the iso image to CD, RW or store it to FAT formatted CF, SD, HDD
 - insert the medium into DEMFIR
 - enjoy
-
 
