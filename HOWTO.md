@@ -17,7 +17,7 @@ Build DEMFIR
 - download this repository
 - extract included DEMFIR source somewhere outside diso folder and enter to it
 - check config.a80 and select features you want
-- run 'make' and build is done automatically
+- run `make` and build is done automatically
 
 Warning, this is most recent, but unstable version of DEMFIR. For stable release go to http://demfir.sourceforge.net/.
 
@@ -26,7 +26,7 @@ Build DISO
 ==========
 
 - go to diso folder
-- erase unncessary files (only thing you need are folders 'demos', 'firmwares', 'games', 'utilities' and 'work')
+- erase unncessary files (you need the folders `demos`, `firmwares`, `forever-party`, `games`, `intros`, `utilities` and `work`)
 - run command: `genisoimage -U -V "DISO" -G [path to]demfir81123_R.bin -o ../diso.iso .` and you will get diso.iso image in parent folder
 
 
