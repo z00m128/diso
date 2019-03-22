@@ -1,0 +1,16 @@
+TIC-TOC Intro (ZX Spectrum 48k)
+by
+Daniel A. Nagy <nagydani@epointsystem.org>
+for the 1k intro competition at
+FOReVER 2019
+
+Special thanks to Slavo "Busy" Labsky for encouragement and inspiration.
+
+The 1k intro file is tic-toc.tap that renders an animation and plays it.
+Unfortunately, it takes many days to finish the rendering, so I provided
+a snapshot with the rendered video and its player in tic-toc-player.tap
+
+The whole thing was inspired by the Juggler demo for Amiga 1000 from 1986.
+The humble 48k Speccy could have done that waaay back in 1982.
+
+A more sophisticated version for the 128k Spectrum might follow...

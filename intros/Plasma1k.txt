@@ -1,0 +1,39 @@
+##################################
+##                              ##
+##    Plasma 1k basic intro     ##
+##        by Busy soft          ##
+##                              ##
+##       First presented:       ##
+##    16.03.2019 on Forever     ##
+##                              ##
+##################################
+ 
+ Party: FOReVER:2019
+  Date: 15-17.03.2019
+ Scene: ZX Spectrum
+ Compo: 1k intro
+  Work: Plasma 
+   Req: ZX Spectrum 48k
+   Who: Busy
+
+Small graphic effect written in pure ZX basic
+written in one day before Fovever party :)
+in a short time on Forever party directly.
+
+Graphics of Plasma runs on 25 FPS
+and whole effect repeats after a few seconds.
+
+Intro comes in two tap files:
+
+  Plasma1k.tap ..... official intro 858 bytes long
+  PlasmaPlay.tap ... intro with precalculated data
+
+Official intro needs more than one hour to prepare data.
+So there is provided a version with all data prepared
+and it runs immediatelly.
+
+Please run this intro in USR0 mode or 48 basic only.
+Started on 128/+3 basic, it can cause crash of system.
+
+When you executed the PlasmaPlay with prepared data,
+please make sure RAMTOP is 63000 or higher.

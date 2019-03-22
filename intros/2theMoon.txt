@@ -1,0 +1,16 @@
+Compo
+
+Name: To The moon
+
+Category: Sinclair ZX Spectrum 1k intro
+
+Author: Martin 1
+Contact: backtozx@gmail.com
+
+Size: 1000 bytes (including file header)
+File: TAP file with autostart
+
+Source code: pure BASIC with hidden data
+Device(s): 16kB Speecy, +2
+
+Note: There is one second delay on the start. Demo could be rerun using RUN command.

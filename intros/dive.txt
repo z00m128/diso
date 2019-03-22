@@ -1,0 +1,6 @@
+compo name: ZX Spectrum 1k Intro Compo
+title: Dive
+author: Gorgh/Agenda
+contact e-mail: gorgh@o2.pl
+
+My first finished production for ZX Spectrum, I'm happy that I can come and show something.
