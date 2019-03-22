@@ -27,7 +27,7 @@ Build DISO
 
 - go to diso folder
 - erase unncessary files (only thing you need are folders 'demos', 'firmwares', 'games', 'utilities' and 'work')
-- run command: 'genisoimage -U -V "DISO" -G [path to]demfir81123_R.bin -o ../diso.iso .' and you will get diso.iso image in parent folder
+- run command: `genisoimage -U -V "DISO" -G [path to]demfir81123_R.bin -o ../diso.iso .` and you will get diso.iso image in parent folder
 
 
 Use DISO
