@@ -1,0 +1,7 @@
+Mag7sqr by UKScene Allstars
+For Forever 7 Realtime Compo
+Seven files, 7 bytes each.
+The first one is a launcher,
+followed by six 7-byte intros.
+Load, run, watch random intro.
+Lather, rinse, repeat.

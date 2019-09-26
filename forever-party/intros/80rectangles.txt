@@ -1,0 +1,26 @@
+
+  Party: Forever 2015
+   Date: 13-15.03.2015
+  Scene: ZX Spectrum
+  Compo: 1k intro
+   Work: 80 rectangles
+    Req: ZX Spectrum 128/+2
+    Who: Busy soft & hard
+  Email: busy@napri.sk
+
+ #########################
+ ## In memory of RASTER ##
+ #########################
+ 
+This 1k intro is a ZX Spectrum port
+of well known Raster's intro from Atari:
+http://www.pouet.net/prod.php?which=62186
+ 
+You will see 80 random moving rectangles,
+it means 18560 moving pixels at 50 FPS.
+ 
+Intro in this package is designated for 128/+2 only.
+For 48/+2A/+3 versions please see on my web site
+http://busy.speccy.cz/tvorba/zxintro.htm
+ 
+On BSDOS, code of the intro is runable by NEW command.

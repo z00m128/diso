@@ -1,0 +1,6 @@
+type:   Forever 2018 Wild Compo
+name:   FEAR
+author: z00m/TCG/SinDiKAT
+
+requirements: USR0 on ZX Spectrum 128k with TurboSound, or Speccy2010, or ZX-Evo with TSFM or TurboSound.
+

@@ -1,0 +1,4 @@
+name: pisaas1K
+by:   phantasy
+for:  forever quattro speccy 1k intro compo
+note: works on all speccys (including 48k!)

@@ -1,0 +1,9 @@
+title:	"RoBoTaNZ"
+author:	triebkraft
+compo:	zx spectrum 1Kb intro
+party:	ForeverQ
+
+info:	robotanz.scl - TR-DOS version
+	robotanz.tap - TAP version
+contact: orangefox@mail.ru (diver)
+representative: jtn/4d (he must be at the party)

@@ -1,0 +1,19 @@
+
+            m a t h r i c k s
+ ............................
+ This intro just shows matrix
+ dither in action ;) Not less
+ but not more. I had no idea
+ what to code, so I put there
+ tiny 3D engine with Gouraud
+ style polygons. Low FPS rate
+ is caused by slow background
+ generator. Sorry for that...
+
+                  g r e e t s
+ ............................
+ Thank you #z80 people, thank
+ you organizers and visitors!
+ Stay cool Forever2E3...
+
+              b a z e . 3 S C
