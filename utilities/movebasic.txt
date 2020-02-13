@@ -1,0 +1,11 @@
+Napisat si basic, moze byt aj nejaky CLEAR, a data nad ramtopom. Basic sa ma spustit od riadku X
+LOAD "" CODE  (Movebasic sa nahra do obrazovky)
+RANDOMIZE USR 16384 : GO TO X    (Od 24200 nahodi strojak co rozbali basic)
+SAVE "Basic ako data" CODE 24200, 65536-24200
+Pre ukladany blok sa moze samozrejme pouzit nejaky packer.
+Ako takto poskladany basic spustit:
+CLEAR 24199
+LOAD "Basic ako data" CODE 24200
+(pripadny depacking, ak je to zapakovane)
+RANDOMIZE USR 24200
+Basic aj so systemkami sa presunie na svoje povodne miesto a vykonaju sa prikazy, ktore boli vyssie napisane za RANDOMIZE USR 16384
