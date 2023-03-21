@@ -1,0 +1,15 @@
+
+              g-a-n-z-f-e-l-d
+
+    (c) Milos Bazelides a.k.a. baze/3SC
+
+    A demo for Sinclair ZX Spectrum 128
+    released at Forever 2023 demoparty.
+    Contact: baze@baze.sk (baze.sk/3sc)
+
+    The Ganzfeld effect is a perceptual
+    phenomenon caused by exposure to an
+    unstructured stimulation field. The
+    state of sensory deprivation causes
+    strange shapes and colors to appear
+    and gives rise to hallucinations...
