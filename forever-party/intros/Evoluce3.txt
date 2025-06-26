@@ -1,0 +1,36 @@
+   _________.__       ________  .__ ____  __.  ________________
+  /   _____/|__| ____ \______ \ |__|    |/ _| /  _  \__    ___/
+  \_____  \ |  |/    \ |    |  \|  |      <  /  /_\  \|    |   
+  /        \|  |   |  \|    `   \  |    |  \/    |    \    |   
+ /_______  /|__|___|  /_______  /__|____|__ \____|__  /____|   
+         \/         \/        \/           \/       \/         
+
+
+      ----   8 V O L U T I O N  3  ----
+      ----    Rise of the Medias   ----
+
+   released at
+             Forever 2025
+                        15. march 2025
+
+ 1k intro for ZX-Spectrum 48 or 128/+2/+2A/+3
+                    and all compatible clones
+
+  2  0  2  5  .
+          .  S  i  n  D  i  K  a  t
+
+                 idea Noby
+                 code Busy
+
+
+ ______________________
+ Some addtional remarks
+
+ Intro uses 25 Hz color mixing to simulate more color.
+ In case of non-synchronous displays (emulators...)
+ there can occur some unpleasant flickering effects.
+
+ To disable flickering, it is enough to disable 128k pagging
+ before execute the intro (set 48 basic in 128k or use ZX 48k).
+
+ If you have Gigascreen - please turn it on !

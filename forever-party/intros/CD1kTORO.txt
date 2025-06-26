@@ -1,0 +1,34 @@
+:::::::::::::::::::::::::::::::::::::::::::::::
+:: Cordic demo 1k - The Oxygene Ring Odyssey ::
+:::::::::::::::::::::::::::::::::::::::::::::::
+
+ Set of simple color effects based on color
+ rings controlled by note pitch from the music
+
+    Code: Busy soft
+    Music: Noro soft
+    Create: 13.03.2025
+    Release: FOReVER:2025
+
+    Original music: Oxygene IV
+    Composed by: Jean Michel Jarre
+
+ The processed concentric rings are drawed by using
+ simplified CORDIC algoritm for computing vector size:
+
+   Vector_size = SQR(X^2+Y^2)
+
+  Input: C = coordinate X where X >= Y
+         B = coordinate Y where Y >  0
+
+         ld      a,c
+     L1: sub     b
+         jr      nc,L2
+         inc     c
+         add     c
+     L2: djnz    L1
+
+ Output: C = distance = SQR(dx^2+dy^2)
+
+ See older Cordic demos 8 to 256 bytes
+ for more math theory and how it works.

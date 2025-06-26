@@ -1,0 +1,91 @@
+:::::::::::::::::::::::::::
+:: Conway's Game of Life ::
+:::::::::::::::::::::::::::
+
+ Party: Forever party
+  Date: 15-17.03.2024
+ Scene: ZX Spectrum
+  Name: Game of life
+  Need: ZX Spectrum 128k
+   Who: Busy & Noro
+ Email: busy@centrum.sk
+
+The Game of life is very known game about evolution of an array of cells,
+where the new state (alive or dead) depends to previous state of the cell
+and states of its all 8 neighbors. By other words, it is simple cellular
+automaton where initial state determines whole further evolution process.
+
+The rules
+
+  Any live cell with fewer than two live neighbors dies
+  Any live cell with two or three live neighbors stays alive
+  Any live cell with more than three live neighbors dies
+  Any dead cell with exactly three live neighbors becomes alive
+
+More information
+
+  https://conwaylife.com/
+  https://playgameoflife.com/
+  https://cs.wikipedia.org/wiki/Hra_%C5%BEivota
+  https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+
+Key features
+
+  Optimized for speed
+  Resolution: 256x192 cells
+  Speed: 1.14 FPS = 56000 pix/s
+  Counters for cells and generations
+  One and half of minute ACB stereo music
+  Included basic for playing with the intro
+
+Control keys
+
+    M ..... Music on/off
+    N ..... Numbers on/off
+  Space ... Return to basic
+
+  The keys are checked when cell generation is
+  updated, so please hold the keys for one second.
+
+Additional information
+
+  This intro is extended version of "Life512b"
+  intro released on LoveByte party 2024,
+  the counters and ACB stereo music was added.
+
+  Intro needs ZX Spectrum 128k with two videorams.
+  It does not work in 48k mode or ZX Spectrum 48k.
+
+  If you want play with intro in basic,
+  it is recomended to load intro in USR 0 mode
+  due to overwriting system variables of 128 editor.
+
+Playing with intro
+
+  Intro comes with loading basic what allows you
+  to play with intro. Important parts in basic:
+
+     10 to 30 .... Run intro with random init cells
+     50 to 120 ... Run intro with your own cells
+    150 to 180 ... Continue in existing evolution
+
+  You can set counter color by using
+
+    POKE 37115,value
+
+  where the "value" means attribute for counter digits.
+  Please apply this POKE after first executing of intro.
+  (before executing it has no effect due to depacking)
+
+  Since intro occupies (nearly) whole basic memory,
+  the ramtop is set to 24575. When you want to execute
+  the intro with your own init state of cells and
+  there is not enough space for your basic drawing,
+  you can delete whole basic (NEW helps you :) ),
+  then write your own drawing and after the drawing,
+  add these two commands for executing of intro:
+
+    RANDOMIZE 16384
+    RANDOMIZE USR 32768
+
+  We hope you have a lot of fun with this intro  :)
